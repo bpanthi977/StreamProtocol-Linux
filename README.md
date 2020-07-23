@@ -5,7 +5,7 @@ Installs mime for stream+http protocol used by [Deluge-Streaming](https://github
 
 # Installation 
 * Clone/Download the repo 
-* Run the $install.sh$ file
+* Run the `install.sh` file
 
 
 
