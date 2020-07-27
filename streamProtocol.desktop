@@ -3,4 +3,4 @@ Type=Application
 Name=Stream Protocol Handler
 Exec=sh -c "vlc $(echo %u | sed 's/^.\{7\}//')"
 StartupNotify=false
-MimeType=x-scheme-handler/stream+http;
+MimeType=x-scheme-handler/stream+http;x-scheme-handler/stream+https
